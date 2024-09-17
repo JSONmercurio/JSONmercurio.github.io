@@ -1,9 +1,9 @@
-- name: HTML5/CSS3
+- name: Verilog/SystemVerilog
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
+- name: C/C++
+  percentage: 95
   color:
 
 - name: Python
