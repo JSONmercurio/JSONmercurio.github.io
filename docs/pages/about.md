@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hey I am Jayson,
+Hey, I'm Jayson,
 a recent graduate with a BS in Computer Engineering from San Jose State University. I’m passionate about digital design and FPGA development, with hands-on experience in hardware description languages like Verilog and SystemVerilog. I’ve built a strong foundation in embedded systems, digital logic, and hardware/software co-design, and I’m excited to apply my skills in real-world applications.
 
 One of my current projects involves creating a Super Nintendo Entertainment System (SNES) clone using an FPGA board. This project aims to faithfully replicate the original hardware, allowing the use of real SNES cartridges. It has given me invaluable experience in retro hardware emulation and digital system design, combining my love for gaming with cutting-edge technology.
